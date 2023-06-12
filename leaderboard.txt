@@ -1,0 +1,4 @@
+yes 20
+lol 10
+pp 1
+kj 0
